@@ -31,7 +31,3 @@ Dataset yang digunakan berasal dari data terbuka Dinas Kesehatan yang memuat inf
 - **Visualisasi & Dashboard**
   - Matplotlib & Seaborn
   - Streamlit
-
----
-
-## 📂 Struktur Folder
