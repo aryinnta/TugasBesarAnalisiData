@@ -2,7 +2,7 @@
 ## Prediksi dan Analisis Jumlah Kasus HIV di Provinsi Jawa Barat Menggunakan Support Vector Regression (SVR)
 
 ## 📌 Deskripsi Proyek
-Proyek ini merupakan Tugas Besar mata kuliah Analisis Data yang bertujuan untuk melakukan analisis dan pengembangan model prediksi jumlah kasus HIV di Provinsi Jawa Barat. Analisis dilakukan menggunakan pendekatan *machine learning*, yaitu **Support Vector Regression (SVR)**, serta didukung dengan **visualisasi data dan dashboard interaktif** berbasis Streamlit.
+Proyek ini merupakan Tugas Besar mata kuliah Analisis Data yang bertujuan untuk melakukan analisis dan pengembangan model prediksi jumlah kasus HIV di Provinsi Jawa Barat. Analisis dilakukan menggunakan pendekatan *machine learning*, yaitu **Support Vector Regression (SVR)**, serta didukung dengan **visualisasi data dan dashboard** berbasis Streamlit.
 
 Dataset yang digunakan berasal dari data terbuka Dinas Kesehatan yang memuat informasi jumlah kasus HIV berdasarkan kabupaten/kota dan tahun. Hasil dari proyek ini diharapkan dapat membantu memahami pola perkembangan kasus HIV serta menjadi alat bantu pengambilan keputusan berbasis data.
 
